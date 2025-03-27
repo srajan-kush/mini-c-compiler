@@ -25,17 +25,6 @@ gcc -w y.tab.c -o parser
 3. **Semantic Analysis** → Detect errors (undeclared variables, type mismatches, etc.).
 4. **Intermediate Code Generation** → Generate and print ICG instructions.
 
----
-
-## 📸 Screenshots
-
-See the following images for compiler outputs:
-
-- 🖼 `icg.png`
-- 🖼 `inorder.png`
-- 🖼 `semantic.png`
-- 🖼 `table.png`
-- 🖼 `tree.png`
 
 ---
 
@@ -181,7 +170,46 @@ int main() {
 }
 ```
 
+## 📸 Screenshots  
+
+Enhance your understanding with the following images showcasing compiler outputs:  
+
+### 🖥️ Compiler Output  
+<div align="center">  
+  <img width="328" alt="icg" src="https://github.com/user-attachments/assets/e071377f-b9d1-43fa-b582-7c69deef81aa" />  
+</div>  
+
 ---
 
-🔥 **Happy Coding!** 🚀
+### 🌳 Inorder Traversal of Tree  
+<div align="center">  
+  <img width="1110" alt="inorder" src="https://github.com/user-attachments/assets/ea7b77b7-1ad8-4c3c-a8ea-929e2bdb7ae3" />  
+</div>  
+
+---
+
+### ⚠️ Checking for Semantic Errors  
+<div align="center">  
+  <img width="340" alt="semantic" src="https://github.com/user-attachments/assets/3d2a854d-06fe-4755-bb86-c4951e391f40" />  
+</div>  
+
+---
+
+### 📊 Symbol Table  
+<div align="center">  
+  <img width="328" alt="table" src="https://github.com/user-attachments/assets/26a037d4-382b-4ab4-8c43-f6e593cb4e54" />  
+</div>  
+
+---
+
+### 🌲 Parse Tree of Input Code  
+<div align="center">  
+  <img width="600" alt="tree" src="https://github.com/user-attachments/assets/6cc9e07c-55e8-48d3-b28a-eb15ab748539" />  
+</div>  
+
+-----
+
+
+
+
 
